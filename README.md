@@ -1,6 +1,7 @@
 # EntityProjeUygulama
-![Admin Giriş](https://github.com/yagmurttk/EntityProjeUygulama/assets/126063227/4bcdf5ba-1207-4504-bafe-78c46178f6fd)
-![AnaForm](https://github.com/yagmurttk/EntityProjeUygulama/assets/126063227/21de2bf4-25dd-417b-bf90-f8d49338d256)
-![KATEGORİ İŞLEMLERİ](https://github.com/yagmurttk/EntityProjeUygulama/assets/126063227/fe1830c7-500f-4954-b91f-7b3dac6921d5)
-![ÜRÜN İŞLEMLERİ](https://github.com/yagmurttk/EntityProjeUygulama/assets/126063227/1e2e66cd-77c5-4163-841f-728fa5aea22f)
-![İSTATİSTİKLER](https://github.com/yagmurttk/EntityProjeUygulama/assets/126063227/f8a12d53-186e-4f12-932b-4e73de98cd23)
+![Admin Giriş](https://github.com/yagmurttk/EntityProjeUygulama/assets/126063227/8abc0097-9c62-40b2-9784-12f072eb06b2)
+![AnaForm](https://github.com/yagmurttk/EntityProjeUygulama/assets/126063227/26ae0326-ab38-4b1b-a070-7680bfcd3f9f)
+![KATEGORİ İŞLEMLERİ](https://github.com/yagmurttk/EntityProjeUygulama/assets/126063227/f08ee204-cb4d-474b-93f2-9e107b143117)
+![ÜRÜN İŞLEMLERİ](https://github.com/yagmurttk/EntityProjeUygulama/assets/126063227/6d6fc041-44ed-4b32-bc41-2545c888ec47)
+![İSTATİSTİKLER](https://github.com/yagmurttk/EntityProjeUygulama/assets/126063227/e3f273e0-1b47-4bd5-a772-04629592a85b)
+
